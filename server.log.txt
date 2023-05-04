@@ -1,0 +1,6 @@
+Guest1 joined the chat
+Guest2 joined the chat
+Guest1> hello
+Guest2 updated their username to nathan
+nathan left the chat
+Guest1 kicked nathan from the chatGuest1 left the chat
